@@ -70,7 +70,6 @@ EatsCalendar is an app designed to make deciding what to eat easier. The app all
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
 <img src="wireframes.jpeg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
@@ -78,8 +77,6 @@ EatsCalendar is an app designed to make deciding what to eat easier. The app all
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-
-[This section will be completed in Unit 9]
 
 ### Models
 
@@ -116,5 +113,12 @@ Unit 9:
 <div>
     <a href="https://www.loom.com/share/cc78f98adada4378a0eadff7a40cd67c">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/cc78f98adada4378a0eadff7a40cd67c-with-play.gif">
+    </a>
+  </div>
+
+Final (showing all functionality + new functionality):
+<div>
+    <a href="https://www.loom.com/share/860235a167e44ab291ecf4b50db69d15">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/860235a167e44ab291ecf4b50db69d15-with-play.gif">
     </a>
   </div>
